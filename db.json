@@ -1,0 +1,242 @@
+{
+  "categories": [
+    {
+      "id": "1",
+      "name": "X-Vegan",
+      "image": "assets/images/hamburguer.png",
+      "ingredients": "Pão, hambúrguer, alface, tomate, queijo e maionese.",
+      "description": " "
+    },
+    {
+      "id": "2",
+      "name": "X-Fitness",
+      "image": "assets/images/hamburguer.png",
+      "ingredients": "Pão, hambúrguer, alface, tomate, queijo e maionese.",
+      "description": ""
+    },
+    {
+      "id": "3",
+      "name": "X-Infarto",
+      "image": "assets/images/hamburguer.png",
+      "ingredients": "Pão, hambúrguer, alface, tomate, queijo e maionese.",
+      "description": ""
+    },
+    {
+      "id": "4",
+      "name": "X-Mineiro",
+      "image": "assets/images/hamburguer.png",
+      "ingredients": "Pão, hambúrguer, alface, tomate, queijo e maionese.",
+      "description": ""
+    },
+    {
+      "id": "5",
+      "name": "X-Oriental",
+      "image": "assets/images/hamburguer.png",
+      "ingredients": "Pão, hambúrguer, alface, tomate, queijo e maionese.",
+      "description": ""
+    }
+  ],
+  "burgers": [
+    {
+      "id": "1",
+      "categoryId": 1,
+      "name": "X-Alface-Premium",
+      "image": "assets/images/hamburguer.png",
+      "ingredients": "Pão, hambúrguer, alface, tomate, queijo e maionese.",
+      "description": "Um hambúrguer vegano suculento feito com uma base de grão-de-bico e quinoa, temperado com especiarias defumadas, cebola caramelizada e alho, garantindo uma textura rica e saborosa. Servido em um pão macio, ele vem acompanhado de fatias frescas de tomate, alface crocante, picles, abacate cremoso e uma generosa camada de maionese de ervas vegana. Finalizado com molho barbecue agridoce e uma pitada de pimenta-do-reino moída na hora, proporcionando uma combinação deliciosa de sabores e texturas em cada mordida.",
+      "price": "25,99"
+    },
+    {
+      "id": "2",
+      "categoryId": 1,
+      "name": "X-Tomate",
+      "image": "assets/images/hamburguer.png",
+      "ingredients": "Pão, hambúrguer, alface, tomate, queijo e maionese.",
+      "description": "Uma explosão de sabores com tomate grelhado e maionese de manjericão. Um hambúrguer vegano perfeito para os amantes de frescor.",
+      "price": "28,99"
+    },
+    {
+      "id": "3",
+      "categoryId": 1,
+      "name": "X-Frutas",
+      "image": "assets/images/hamburguer.png",
+      "ingredients": "Pão, hambúrguer, alface, tomate, queijo e maionese.",
+      "description": "Mistura inusitada de hambúrguer vegano com uma combinação de frutas caramelizadas, garantindo um sabor agridoce único.",
+      "price": "27,50"
+    },
+    {
+      "id": "16",
+      "categoryId": 1,
+      "name": "X-Salada",
+      "image": "assets/images/hamburguer.png",
+      "ingredients": "Pão, hambúrguer, alface, tomate, queijo e maionese.",
+      "description": "Clássico hambúrguer vegano com salada completa, incluindo alface, tomate e um toque de molho especial de ervas.",
+      "price": "22,99"
+    },
+    {
+      "id": "4",
+      "categoryId": 2,
+      "name": "X-saude",
+      "image": "assets/images/hamburguer.png",
+      "ingredients": "Pão, hambúrguer, alface, tomate, queijo e maionese.",
+      "description": "Ideal para quem busca opções saudáveis, com hambúrguer de peito de frango grelhado e pão integral.",
+      "price": "24,99"
+    },
+    {
+      "id": "5",
+      "categoryId": 2,
+      "name": "X-frango",
+      "image": "assets/images/hamburguer.png",
+      "ingredients": "Pão, hambúrguer, alface, tomate, queijo e maionese.",
+      "description": "Saboroso hambúrguer de frango grelhado, acompanhado de uma leve salada e queijo branco.",
+      "price": "26,00"
+    },
+    {
+      "id": "6",
+      "categoryId": 2,
+      "name": "X-whey",
+      "image": "assets/images/hamburguer.png",
+      "ingredients": "Pão, hambúrguer, alface, tomate, queijo e maionese.",
+      "description": "Perfeito para atletas, feito com hambúrguer proteico e queijo cottage, proporcionando energia e sabor.",
+      "price": "29,00"
+    },
+    {
+      "id": "17",
+      "categoryId": 2,
+      "name": "X-creatina",
+      "image": "assets/images/hamburguer.png",
+      "ingredients": "Pão, hambúrguer, alface, tomate, queijo e maionese.",
+      "description": "Combinação inovadora com hambúrguer de frango enriquecido com creatina, ideal para performance.",
+      "price": "23,50"
+    },
+    {
+      "id": "7",
+      "categoryId": 3,
+      "name": "X-egg-Bacon",
+      "image": "assets/images/hamburguer.png",
+      "ingredients": "Pão, hambúrguer, bacon crocante, ovo frito, alface, tomate, queijo e maionese.",
+      "description": "Uma explosão de sabores clássicos, combinando hambúrguer suculento com fatias de bacon crocante, ovo frito perfeitamente temperado, alface fresca, tomate suculento, queijo derretido e uma camada de maionese cremosa. Perfeito para quem adora um lanche robusto.",
+      "price": "29,90"
+    },
+    {
+      "id": "8",
+      "categoryId": 3,
+      "name": "X-entope-veia",
+      "image": "assets/images/hamburguer.png",
+      "ingredients": "Pão, hambúrguer, bacon, queijo cheddar extra, cebola caramelizada e molho especial.",
+      "description": "Com três camadas de queijo cheddar, bacon em dobro e cebolas caramelizadas, este hambúrguer é indulgência pura. Finalizado com molho especial, oferece uma experiência intensa para os amantes de sabores ricos.",
+      "price": "17,90"
+    },
+    {
+      "id": "9",
+      "categoryId": 3,
+      "name": "X-UTI",
+      "image": "assets/images/hamburguer.png",
+      "ingredients": "Pão, hambúrguer duplo, bacon extra, queijo, cebola crispy e molho barbecue.",
+      "description": "O lanche mais ousado do cardápio, com duas carnes suculentas, bacon extra crocante, queijo derretido, cebola crispy e uma generosa dose de molho barbecue. Uma verdadeira obra-prima para quem adora exagerar!",
+      "price": "30,00"
+    },
+    {
+      "id": "18",
+      "categoryId": 3,
+      "name": "X-Tudo",
+      "image": "assets/images/hamburguer.png",
+      "ingredients": "Pão, hambúrguer, bacon, ovo, presunto, queijo, alface, tomate e molho especial.",
+      "description": "O clássico X-Tudo traz uma combinação de carne suculenta, fatias de bacon, ovo frito, presunto, queijo derretido e vegetais frescos, tudo equilibrado com um molho especial. É a escolha perfeita para quem quer de tudo um pouco.",
+      "price": "8,90"
+    },
+    {
+      "id": "10",
+      "categoryId": 4,
+      "name": "X-Queijo",
+      "image": "assets/images/hamburguer.png",
+      "ingredients": "Pão, hambúrguer, queijo em dobro, tomate, alface e maionese.",
+      "description": "Para os amantes de queijo, este lanche vem com uma porção extra de queijo derretido combinado com carne suculenta, alface fresca e tomate, tudo em um pão macio.",
+      "price": "25,00"
+    },
+    {
+      "id": "11",
+      "categoryId": 4,
+      "name": "X-Pão-de-Queijo",
+      "image": "assets/images/hamburguer.png",
+      "ingredients": "Pão de queijo, hambúrguer, queijo, alface e molho especial.",
+      "description": "Uma homenagem à culinária mineira, este hambúrguer é servido em um pão de queijo macio e recheado com carne suculenta, queijo derretido e um molho especial que complementa os sabores.",
+      "price": "17,90"
+    },
+    {
+      "id": "12",
+      "categoryId": 4,
+      "name": "X-Uai",
+      "image": "assets/images/hamburguer.png",
+      "ingredients": "Pão, hambúrguer, queijo minas, alface, tomate e molho de requeijão.",
+      "description": "Um hambúrguer inspirado em Minas Gerais, com queijo minas frescal, carne suculenta e um toque cremoso de molho de requeijão, garantindo um sabor inesquecível.",
+      "price": "29,90"
+    },
+    {
+      "id": "19",
+      "categoryId": 4,
+      "name": "X-Trem-Bão",
+      "image": "assets/images/hamburguer.png",
+      "ingredients": "Pão, hambúrguer, bacon, queijo, cebola caramelizada e molho barbecue.",
+      "description": "O nome já diz tudo: uma combinação deliciosa de carne suculenta, bacon crocante, queijo derretido e cebola caramelizada, finalizado com molho barbecue. Trem bão demais da conta!",
+      "price": "28,50"
+    },
+    {
+      "id": "13",
+      "categoryId": 5,
+      "name": "X-Sushi",
+      "image": "assets/images/hamburguer.png",
+      "ingredients": "Pão, hambúrguer, nori, cream cheese, molho teriyaki e gergelim.",
+      "description": "Com um toque oriental, este lanche traz sabores únicos com nori crocante, cream cheese cremoso, molho teriyaki agridoce e uma pitada de gergelim, tudo em harmonia com o hambúrguer suculento.",
+      "price": "36,90"
+    },
+    {
+      "id": "14",
+      "categoryId": 5,
+      "name": "X-Hot-Roll",
+      "image": "assets/images/hamburguer.png",
+      "ingredients": "Pão, hambúrguer, nori, cream cheese, molho apimentado e gergelim.",
+      "description": "Inspirado no sushi hot roll, este hambúrguer combina o sabor defumado do nori, o cream cheese cremoso e um molho levemente apimentado, criando uma experiência única.",
+      "price": "28,00"
+    },
+    {
+      "id": "15",
+      "categoryId": 5,
+      "name": "X-Temaki",
+      "image": "assets/images/hamburguer.png",
+      "ingredients": "Pão, hambúrguer, nori, salmão defumado, cream cheese e molho teriyaki.",
+      "description": "Com salmão defumado e uma combinação clássica de nori e cream cheese, este hambúrguer é uma versão ocidentalizada do temaki que conquista a cada mordida.",
+      "price": "30,00"
+    },
+    {
+      "id": "20",
+      "categoryId": 5,
+      "name": "X-Wasabi",
+      "image": "assets/images/hamburguer.png",
+      "ingredients": "Pão, hambúrguer, cream cheese, molho wasabi e gergelim.",
+      "description": "Para os amantes de sabores intensos, este lanche traz o toque picante do molho wasabi combinado com cream cheese e gergelim, criando um contraste delicioso.",
+      "price": "47,50"
+    }
+  ],
+  "orders": [
+    {
+      "burger2": {
+        "name": "X-Alface-Premium",
+        "quantity": 3
+      },
+      "observation": "Sem molho"
+    },
+    {
+      "id": "247",
+      "burger1": {
+        "name": "cac",
+        "quantity": 2
+      },
+      "burger2": {
+        "name": "as",
+        "quantity": 3
+      },
+      "observation": "asd"
+    }
+  ]
+}

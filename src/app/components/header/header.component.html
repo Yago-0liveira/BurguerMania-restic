@@ -1,0 +1,25 @@
+<header>
+    <div class="header">
+      <div>
+        <a class="logo" routerLink="/">
+          <img src="../../assets/images/logo.png"/>
+        </a>
+      </div>
+      <div class="list">
+        <ul class="box">
+          <li><a routerLink="/" class="link">Início</a></li>
+          <li><a routerLink="/category/1" class="link">Categoria</a></li>
+          <li><a routerLink="/menu" class="link">Cardápio</a></li>
+          <li><a routerLink="/location" class="link">Localização</a></li>
+          <li><a routerLink="/contact" class="link">Contato</a></li>
+        </ul>
+      </div>
+  
+      
+      <div id="hbIcon" class="hamburger-menu" (click)="toggleMenu()" *ngIf="!menuOpen">
+        <img src="../../assets/images/hamburguer-menu.png" />
+      </div>
+    </div>
+  
+    
+  </header>
