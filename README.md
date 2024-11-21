@@ -1,4 +1,6 @@
 # BurguerManiaFront
+Este é o projeto Frontend final da trilha Fullstack da residência de software do CEPEDI. O desafio proposto baseia-se no design disponibilizado no figma e tem por escopo ser um site de pedidos de 
+hamburguer totalmente responsivo, utilizável e deve seguir o design proposto. O projeto foi feito utilizando o Angular e Angular material. 
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.11.
 
